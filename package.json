@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "karrotframe": "^0.12.1",
-    "react-router-dom": "^5.2.0"
-  }
-}
